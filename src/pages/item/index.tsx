@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react"
 import { useParams } from "react-router-dom";
-import {ImageSlider} from "components/carousel"
+// import {ImageSlider} from "components/carousel"
 import {useItemResult} from "hooks/hooks"
 import css from "./item.css"
 
