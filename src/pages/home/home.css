@@ -1,0 +1,9 @@
+.home-container {
+    max-width: 400px;
+    margin: 30px auto 0 auto;
+}
+
+.home-welcome {
+    text-align: center;
+    margin: 0;
+}
